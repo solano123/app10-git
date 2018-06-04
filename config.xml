@@ -2,10 +2,10 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
  xmlns:gap ="http://phonegap.com/ns/1.0"
- id ="com.phonegap.app6"
+ id ="com.phonegap.app10"
  version ="1.0.0">
 
- <name>app10 </name>
+ <name>app10 Bases de datos simples y avanzadas </name>
 
  <description>
  Aplicacion que muestra informacion sobre Base de Datos
